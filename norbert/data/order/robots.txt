@@ -1,4 +1,0 @@
-User-agent: Scabies-1.0
-Allow: /order/
-User-agent: *
-Disallow: /order/
